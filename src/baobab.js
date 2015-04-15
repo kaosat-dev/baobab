@@ -6,7 +6,7 @@
  */
 var Cursor = require('./cursor.js'),
     EventEmitter = require('emmett'),
-    Typology = require('typology'),
+    Typology = require('./typology'),
     helpers = require('./helpers.js'),
     update = require('./update.js'),
     merge = require('./merge.js'),
